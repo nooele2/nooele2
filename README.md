@@ -1,19 +1,19 @@
 # Your Name | Frontend Developer & UI/UX Designer
 
 <p align="center">
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/github/followers/YourUsername?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/nooele2"><img src="https://img.shields.io/github/followers/nooele2?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/noele2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
 </p>
 
 ---
 
 ## 👤 About Me
 
-- **Name:** Your Name
+- **Name:** Naw Hkoo Ku Htoo
 - **Role:** Frontend Developer & UI/UX Designer | 4th Year Software Engineering Student
 - **Interests:** Web Development, UI/UX Design, Project Management, Creative Coding
 - **Location:** Your Location
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
+- **GitHub:** [NawKookuHtoo](https://github.com/nooele2)
 
 ---
 
@@ -57,12 +57,12 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/noele2)
 - 🎨 [Portfolio](https://your-portfolio.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: noellehtoo@gmail.com
 
 ---
 
 <p align="center">
-  <i>⭐️ From [YourUsername](https://github.com/YourUsername)</i>
+  <i>⭐️ From [NawKookuHtoo](https://github.com/nooele2)</i>
 </p>
