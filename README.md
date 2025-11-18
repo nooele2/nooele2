@@ -1,4 +1,4 @@
-# Your Name | Frontend Developer & UI/UX Designer
+# Noelle | Frontend Developer & UI/UX Designer
 
 <p align="center">
   <a href="https://github.com/nooele2"><img src="https://img.shields.io/github/followers/nooele2?label=GitHub&style=social" alt="GitHub"></a>
