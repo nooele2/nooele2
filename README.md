@@ -24,7 +24,7 @@
 | Python | HTML5 | React | UI/UX Design | Git, GitHub |
 | Dart | CSS3 | JavaScript | Project Management | Firebase |
 | Java | | Flutter | Prototyping | FlutterFlow |
-| JavaScript | Angular | | Wireframing | Strapi |
+| JavaScript | | Angular | Wireframing | Strapi |
 | | | | User Research | Figma |
 
 ---
